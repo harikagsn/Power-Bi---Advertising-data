@@ -1,0 +1,44 @@
+
+(Sai Naga Harika Goruganthu)
+
+As per the given data, we can clearly see that OTT Advertisements contributed to the highest CTR among the three (Banner, OTT, Video) different Advertisements. OTT which is under Video Media Type contributed 6.577% CTR in total – further distributed as 5.44% in total for OTT and 1.14% in total for other video types. Whereas on the other hand, Banner media type of advertisements contributed only 2.63% CTR in total. The same can be reported from the below visualization generated –
+
+ 
+
+From the above charts, we see that the Video Ad type had the least CTR rates. This might be because it is difficult to drive people’s entire attention to actually click and complete the video ad and then perform the action to convert into CTR. This can be confirmed by the bar chart above on the right. Even though the Impressions for Video ads are highest, Clicks for the same are in the lower band followed by Banner and OTT. From this, we can clearly say that spending more money or budget on OTT ads can serve more CTR than spending them into Video advertisements. 
+
+If the company is intended to keep Video ads, they better make it short or engaging so that audience can actually spend their time on the same and perform desired actions. While on the other hand, we can see clear correlation between the Impressions, clicks and CTR rate for the devices being used. Desktops, laptops , mobile phones and tablets had higher Impressions, clicks and higher CTR rate as well. (Note: The visualization for the same is present in the “Final project” Power BI file attached with the assignment).
+
+We can further analyse the data on which devices the advertisements were most handled or accessed and that can turn into the action that the company desires/here we can see that as highest or more CTR rate. The main devices that are being used here are desktops & laptops, mobile phones, tv, set top box, tablets and game consoles. Depends upon the data we analysed, “desktops & laptops” had the maximum CTR rate followed by “mobile phones” and “tablets”. Game Consoles had very minimal CTR rate of 0.03% whereas TV and set top box nearly had 0% CTR rate. 
+
+ 
+
+Desktops, laptops and mobile phones nearly comprises our every part of the day and it is not a surprise to see such results with them being the highest used devices. One of the reasons for TV being very low might be because we can’t really calculate the exact CTR rates as the audience might not directly go to the website or perform the desired action. They might see an ad in the TV and then they might open their desktops or laptops or mobile phones to actually perform the desired action. 
+
+Hence, we can conclude that the actual TV/set top box ads cannot be really assessed with the mere data that we have with us. However, it would be better to divert the marketing or advertising focus more on the Ads where the targeted audience can easily handle or perform action which can convert into increasing their CTRs. 
+ 
+
+
+Coming to the Months that the highest CTR served is May – 3.8% CTR followed by March and April with 2.66% and 2.64% CTR respectively. June can be left as negligible as only one day of the data is analysed there. From March to April, we saw consistency in all the aspects like Impressions, Clicks and the CTR rate. But in the May, we saw a spike in the CTR rate even though the Impressions and Clicks are way lower than that of March and April. The contribution from the OTT ad types is highest in May and overall contributing to 2.88%. The next highest contribution to the CTR rates were April (OTT Ad Type) – 1.5% CTR, March (Banner – 1.2% and OTT – 0.98%) overall CTR rate. Even the next highest in the May month is from Banner Type which is 0.6%, the OTT mode had the greatest turnover rate in the May month.
+
+ 
+The cost benefit analysis is depicted in the above visualization. The money spent on advertisements is through 3 media types. 
+ 	 
+Banner type: The total money spent on advertisements through banner media type is $84,641 and the CTR % is 1% in which the most money spent on advertisements through banner type was in the month of April where the CTR% was 0.2330 and the lowest money spent on advertisements through banner type was in May month with a CTR% of 0.1632. 
+ 
+OTT type: Similarly, the total money spent on advertisements through OTT type amounts to $156,752 with a CRT of 2% in which the highest money spent on advertisements through OTT type was in the month of April which is $62,694 with a CTR of 0.4428 and the lowest money spent on advertisements through OTT type was in the month of May which is about 38,797 and with a CTR of 0.8636.	 
+ 
+Video type: Lastly the total money spent on advertisements through video type is $187,695 with a CTR% of 0%, in which the highest money spent on advertisements was in the month of April which amounts to $78,625 with a CTR of 0.07 and the lowest in the month of May which amounts to $44,309 with a CTR% of 0.07. The 
+
+If we try to look at the overall picture, most value for money spent on advertisement is through the OTT type as it delivers a 2% CTR with a total ad budget of $156,752. The least value for money spent on advertisement is through the video type with a total ad budget of $187,695 which delivers a 0% CRT.
+
+ 
+
+Coming to the Video Serve rate and the Video Completion rate, the highest Video served are for the BJT Cold Candidates Q1 Video (17283871). However, it didn’t really turn out to have higher CTR rates. The Videos served were between 115K – 95K and there are some of the highest video completion rates as well. It is safe to recommend to convert the marketing/advertising amount from Video ad type to the OTT Ad Type. Even though the CPM rate is $40 which is higher than the Banner - $10 and the video - $20, the CTR rates are worth the spend.
+
+The top ~215 Line Items which comprised to 1.5% CTR rate are dominated by the Video Ad Type. 177 Line Items were of the Video and the later 38 were of the Banner Ad type. Among the 177 Video AD Type – 171 Line Items were advertised as OTT type and only 6 of the rest were video Ad type. And the Billboard type were on the highest turns for the CTR CRM and cold were 51 and 46 respectively.
+
+The highest Impressions did not turn out to get the highest clicks among the campaign. We can see that the turnover for the lowest recorded Impressions had a reasonable conversion of clicks and hence the CTR rates. BJT Cold Candidates Q1 Banner (17283944) and BJT Cold Candidates Q1 Video (17283871) had higher Impressions but however, the clicks were not par with the impressions and did not have the reasonable CTR rate. They had some of the highest Video completion and the video start rate as well but couldn’t get the required action done.
+
+In conclusion it is very clear we must reallocate our resources and have a higher Ad budget towards OTT rather than the video type.
+
